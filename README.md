@@ -1,2 +1,1 @@
-My first readme
-alx 
+My first readme alx
